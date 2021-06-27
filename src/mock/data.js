@@ -11,16 +11,18 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is ',
   name: 'Lewys',
-  subtitle: "I'm a novice developer.",
+  subtitle: "I'm a Junior developer.",
   cta: 'Tell me more',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: "I'm a Junior Front End Developer from Cardiff, Wales.",
+  paragraphTwo:
+    "When I'm not on the computer pushing pixels you can find me frequently taking off on(usually an impulse) adventure somewhere. Be it local or afar I love to travel to new places and experience all things new and different.",
+  paragraphThree:
+    'I think that the type of person I am, especially my love of making things more effecient and my approach to problem solving, will allow me to thrive on making the web a better place.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -51,7 +53,7 @@ export const projectsData = [
     title: 'Rock Paper Scissors',
     info: 'This was a game clone challenge from "Frontend Mentor"',
     info2:
-      "Was fun to make and taught me a lot at the time. I'd love to come back to it and buiod it with react as well as add in lizard, spock logic.",
+      "Was fun to make and taught me a lot at the time. I'd love to come back to it and buiod it with react as well as add in lizard, spock logic. Not currently set up for viewing on a mobile.",
     url: 'https://rockpaperscissors-24d06.web.app/',
     repo: 'https://github.com/LCN-GH/rockPaperScissors', // if no repo, the button will not show up
   },
