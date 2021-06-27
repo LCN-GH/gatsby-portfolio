@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: "I'm a Junior Front End Developer from Cardiff, Wales.",
   paragraphTwo:
-    "When I'm not on the computer pushing pixels you can find me frequently taking off on(usually an impulse) adventure somewhere. Be it local or afar I love to travel to new places and experience all things new and different.",
+    "When I'm not on the computer you can find me frequently taking off on(usually an impulse) adventure somewhere. Be it local or afar I love to travel to new places and experience all things new and different.",
   paragraphThree:
     'I think that the type of person I am, especially my love of making things more effecient and my approach to problem solving, will allow me to thrive on making the web a better place.',
   resume: '', // if no resume, the button will not show up
