@@ -53,7 +53,7 @@ export const projectsData = [
     title: 'Rock Paper Scissors',
     info: 'This was a game clone challenge from "Frontend Mentor"',
     info2:
-      "Was fun to make and taught me a lot at the time. I'd love to come back to it and buiod it with react as well as add in lizard, spock logic. Not currently set up for viewing on a mobile.",
+      "Was fun to make and taught me a lot at the time. I'd love to come back to it and build it with react as well as add in lizard, spock logic. Not currently set up for viewing on a mobile.",
     url: 'https://rockpaperscissors-24d06.web.app/',
     repo: 'https://github.com/LCN-GH/rockPaperScissors', // if no repo, the button will not show up
   },
